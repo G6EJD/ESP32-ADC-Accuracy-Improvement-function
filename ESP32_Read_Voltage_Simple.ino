@@ -35,5 +35,3 @@ void loop() {
 
 // See: https://github.com/espressif/arduino-esp32/blob/master/cores/esp32/esp32-hal-adc.h
 
-// See: https://esp32.com/viewtopic.php?f=12&t=1045
-
